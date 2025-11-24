@@ -1,1 +1,1 @@
-# prectical1
+print ("Hello WORLD")
